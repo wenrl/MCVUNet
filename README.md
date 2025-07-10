@@ -3,7 +3,8 @@ An MCVUNet for 2D medical image segmantation
 The pth_file is available in [here](https://pan.baidu.com/s/1CAdQWuCDfFlcqLuYu-s-VA). To obtain the password, please send an email to my eamil with with a purpose statement attached.
 
 ## Dataset
-[Synpase]([https://www.synapse.org/Synapse:syn3193805/wiki/217789)
+
+[Synpase](https://www.synapse.org/Synapse:syn3193805/wiki/217789)
 
 [ACDC](https://humanheart-project.creatis.insa-lyon.f r/database/#collection/637218c173e9f0047faa00fb)
 
