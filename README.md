@@ -15,8 +15,8 @@ The pth_file is available in [here](https://pan.baidu.com/s/1CAdQWuCDfFlcqLuYu-s
 
 ## For training
 
-python tain_synapse.py
+python train.py
 
 ## For inference
 
-python test_synapse.py
+python test.py
