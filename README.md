@@ -1,5 +1,6 @@
 # MCVUNet: A Multi-scale Convolutional Vision UNet for Efficient Medical Image Segmentation
-An MCVUNet for 2D medical image segmantation
+An MCVUNet for 2D medical image segmantation.
+
 The pth_file is available in [here](https://pan.baidu.com/s/1CAdQWuCDfFlcqLuYu-s-VA). To obtain the password, please send an email to my eamil with with a purpose statement attached.
 
 ## Dataset
